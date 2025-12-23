@@ -1,0 +1,6 @@
+# Ignore Flutter Junk
+**/build/
+**/.dart_tool/
+**/.idea/
+**/*.iml
+**/generated_plugin_registrant.dart
